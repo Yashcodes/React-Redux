@@ -38,7 +38,7 @@ const Navbar = () => {
               </li>
             </ul>
             <div>
-              <button disabled className="btn btn-primary">
+              <button disabled className="btn-primary py-1">
                 Your Balance : 10000
               </button>
             </div>
