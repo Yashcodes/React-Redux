@@ -30,7 +30,7 @@ const Navbar = () => {
                 >
                   Home
                 </Link>
-              </li>
+              </li> 
               <li className="nav-item">
                 <Link className="nav-link fs-5" to="/about">
                   About
